@@ -1,0 +1,33 @@
+body {
+  background-color: aqua;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.nav-link {
+  border: none;
+  background-attachment: fixed;
+  background-color: aqua;
+  margin:10px
+}
+
+.ul-align {
+  text-align: center;
+}
+
+ul.myul {
+  display: inline-block;
+  text-align: left;
+}
+
+.container {
+  display:flex;
+  background-color: blue;
+  align-items: center;
+}
+
+.content {
+  background-color: aqua;
+  margin: 20px;
+  padding: 20px;
+}
